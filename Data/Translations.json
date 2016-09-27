@@ -17,7 +17,8 @@
       }
     },
     "data": {
-      "icarusbot.translationloaded": "[Translation] Translation module loaded successfully!",
+      "icarusbot.translation.loaded": "[Translation] Translation module loaded successfully!",
+      "icarusbot.translation.download": "[Translation] Downloading latest database...",
       "icarusbot.commandhandler.notadded.1": "[CommandHandler] [!] Couldn't add command of class \"{ClassName}\"!",
       "icarusbot.commandhandler.notadded.2": "[CommandHandler] -> {Message}",
       "icarusbot.commandhandler.added": "[CommandHandler] [+] Added: \"{ClassName}\"",
@@ -70,7 +71,8 @@
       }
     },
     "data": {
-      "icarusbot.translationloaded": "[Translation] Модуль успешно загружен!",
+      "icarusbot.translation.loaded": "[Translation] Модуль успешно загружен!",
+      "icarusbot.translation.downloading": "[Translation] Скачивание последней базы...",
       "icarusbot.commandhandler.notadded.1": "[CommandHandler] [!] Невозможно добавить класс \"{ClassName}\"!",
       "icarusbot.commandhandler.notadded.2": "[CommandHandler] -> {Message}",
       "icarusbot.commandhandler.added": "[CommandHandler] [+] Добавлено: \"{ClassName}\"",
