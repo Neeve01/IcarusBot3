@@ -46,7 +46,8 @@
       "icarusbot.commands.language.nosuchlanguage": "{Author} **I think I don't speak this language.** :(\nAdd `?` to command to print list of available languages.",
       "icarusbot.guilds.cantsavedata": "[!!!] Can't save guilds' data [!!!]",
       "icarusbot.guilds.cantloaddata": "Can't load guilds' data! I'll back file up if possible.",
-      "icarusbot.guilds.taskrun": "[GuildSpecific] Successfully loaded guild data! Running save now each 30 sec."
+      "icarusbot.guilds.taskrun": "[GuildSpecific] Successfully loaded guild data! Running save now each 30 sec.",
+      "icarusbot.admin.reload.translations": "{Author} **Translations database reloaded.**"
     }
   },
   "русский": {
@@ -96,7 +97,8 @@
       "icarusbot.commands.language.set": "{Author} **Окей, я теперь буду говорить по-русски.** ★.★",
       "icarusbot.guilds.cantsavedata": "[!!!] Невозможно сохранить данные серверов [!!!]",
       "icarusbot.guilds.cantloaddata": "Невозможно загрузить данные гильдий! При возможности сделан бэкап данных.",
-      "icarusbot.guilds.taskrun": "[GuildSpecific] Данные гильдий загружены! Сохранение данных раз в 30 с."
+      "icarusbot.guilds.taskrun": "[GuildSpecific] Данные гильдий загружены! Сохранение данных раз в 30 с.",
+      "icarusbot.admin.reload.translations": "{Author} **Настройки перевода перезагружены.**"
     }
   }
 }
