@@ -45,9 +45,9 @@
       "icarusbot.commands.language": "{Author} **Current language is English. Doot.**\nAdd `?` to command to print list of available languages.",
       "icarusbot.commands.language.list": "{Author} **Available languages:** {Languages}.",
       "icarusbot.commands.language.nosuchlanguage": "{Author} **I think I don't speak this language.** :(\nAdd `?` to command to print list of available languages.",
-      "icarusbot.guilds.cantsavedata": "[!!!] Can't save guilds' data [!!!]",
-      "icarusbot.guilds.cantloaddata": "Can't load guilds' data! I'll back file up if possible.",
-      "icarusbot.guilds.taskrun": "[GuildSpecific] Successfully loaded guild data! Running save now each 30 sec.",
+      "icarusbot.config.cantsavedata": "[!!!] Can't save configurations [!!!]",
+      "icarusbot.config.cantloaddata": "Can't load configurations! Backing up file if possible.",
+      "icarusbot.config.success": "Configurations loaded successfully.",
       "icarusbot.admin.reload.translations": "{Author} **Translations database reloaded.**"
     }
   },
@@ -97,9 +97,9 @@
       "icarusbot.commands.ddg.exception": "{Author} Похоже что с твоим запростом произошло **что-то ужасное**. Извини!",
       "icarusbot.commands.language": "{Author} **Current language is Russian (Русский). Водка матрёшка?**\nAdd `?` to command to print list of available languages.",
       "icarusbot.commands.language.set": "{Author} **Окей, я теперь буду говорить по-русски.** ★.★",
-      "icarusbot.guilds.cantsavedata": "[!!!] Невозможно сохранить данные серверов [!!!]",
-      "icarusbot.guilds.cantloaddata": "Невозможно загрузить данные гильдий! При возможности сделан бэкап данных.",
-      "icarusbot.guilds.taskrun": "[GuildSpecific] Данные гильдий загружены! Сохранение данных раз в 30 с.",
+      "icarusbot.config.cantsavedata": "[!!!] Невозможно сохранить файл конфигурации [!!!]",
+      "icarusbot.config.cantloaddata": "Невозможно загрузить файл конфигурации! Попытка сделать бэкап.",
+      "icarusbot.config.success": "Конфигурация успешно загружена.",
       "icarusbot.admin.reload.translations": "{Author} **Настройки перевода перезагружены.**"
     }
   }
