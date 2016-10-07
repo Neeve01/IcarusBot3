@@ -3,7 +3,7 @@
     "author": "Neeve01",
     "version": null,
     "commands": {
-	  "action": {
+      "action": {
         "aliases": [
           "act",
           "a"
@@ -15,11 +15,11 @@
           "rtd"
         ]
       },
-	  "rollstat": {
+      "rollstat": {
         "aliases": [
           "rs",
           "rstat",
-		  "rtdstat"
+          "rtdstat"
         ]
       },
       "duck": {
@@ -43,14 +43,14 @@
       "icarusbot.commands.roll.range.message": ":sushi: {Author} *rolls* **{Number}** *{Min}-{Max}*.",
       "icarusbot.commands.roll.dropped": "[Roll] Dropped {Username}'s info due to error.",
       "icarusbot.commands.roll.newdata": "[Roll] Creating new data for {Username}.",
-	  "icarusbot.commands.roll.stat.mention": "{Username} **Your roll statistics:**",
-	  "icarusbot.commands.roll.stat.repeat": "*{Repeat}'s rolled:* **{Count}**",
-	  "icarusbot.commands.roll.stat.repeat.message": "• *Last roll*: {Message}",
-	  "icarusbot.commands.roll.stat.minutesago": "*({Minutes} minutes ago)*",
-	  "icarusbot.commands.roll.stat.hoursago": "*({Hours} hours ago)*",
-	  "icarusbot.commands.roll.stat.daysago": "*({Days} days ago)*",
-	  "icarusbot.commands.roll.stat.secondsago": "*({Seconds} seconds ago)*",
-	  "icarusbot.commands.roll.stat.rightnow": "**(right now, wowie!)**",
+      "icarusbot.commands.roll.stat.mention": "{Username} **Your roll statistics:**",
+      "icarusbot.commands.roll.stat.repeat": "*{Repeat}'s rolled:* **{Count}**",
+      "icarusbot.commands.roll.stat.repeat.message": "• *Last roll*: {Message}",
+      "icarusbot.commands.roll.stat.minutesago": "*({Minutes} minutes ago)*",
+      "icarusbot.commands.roll.stat.hoursago": "*({Hours} hours ago)*",
+      "icarusbot.commands.roll.stat.daysago": "*({Days} days ago)*",
+      "icarusbot.commands.roll.stat.secondsago": "*({Seconds} seconds ago)*",
+      "icarusbot.commands.roll.stat.rightnow": "**(right now, wowie!)**",
       "icarusbot.commands.action.nomessage": "**{Mark}** {Author}",
       "icarusbot.commands.action.message": "**{Mark}** {Author} *{Message}*",
       "icarusbot.commands.action.success": ":white_check_mark:",
@@ -78,7 +78,7 @@
     "author": "Neeve01",
     "version": null,
     "commands": {
-	  "action": {
+      "action": {
         "aliases": [
           "действие",
           "д"
@@ -91,12 +91,12 @@
           "р"
         ]
       },
-	  "rollstat": {
+      "rollstat": {
         "aliases": [
           "рс",
           "роллстат",
-		  "ртдстат",
-		  "рстат"
+          "ртдстат",
+          "рстат"
         ]
       },
       "duck": {
@@ -120,15 +120,15 @@
       "icarusbot.commands.roll.range.nomessage": ":sushi: {Author} *роллит* **{Number}** *{Min}-{Max}*: {Message}",
       "icarusbot.commands.roll.range.message": ":sushi: {Author} *роллит* **{Number}** *{Min}-{Max}*.",
       "icarusbot.commands.roll.dropped": "[Roll] Невозможно декодировать данные юзера {Username}.",
-	  "icarusbot.commands.roll.newdata": "[Roll] Создание новых данных для {Username}.",
-	  "icarusbot.commands.roll.stat.mention": "{Username} **Твоя статистика роллов:**",
-	  "icarusbot.commands.roll.stat.repeat": "*Сроллено {Repeat}:* **{Count}**",
-	  "icarusbot.commands.roll.stat.repeat.message": "• *Последний ролл*: {Message}",
-	  "icarusbot.commands.roll.stat.minutesago": "*({Minutes} минут назад)*",
-	  "icarusbot.commands.roll.stat.hoursago": "*({Hours} часов назад)*",
-	  "icarusbot.commands.roll.stat.daysago": "*({Days} дней назад)*",
-	  "icarusbot.commands.roll.stat.secondsago": "*({Seconds} секунд назад)*",
-	  "icarusbot.commands.roll.stat.rightnow": "**(прямо сейчас!)**",
+      "icarusbot.commands.roll.newdata": "[Roll] Создание новых данных для {Username}.",
+      "icarusbot.commands.roll.stat.mention": "{Username} **Твоя статистика роллов:**",
+      "icarusbot.commands.roll.stat.repeat": "*Сроллено {Repeat}:* **{Count}**",
+      "icarusbot.commands.roll.stat.repeat.message": "• *Последний ролл*: {Message}",
+      "icarusbot.commands.roll.stat.minutesago": "*({Minutes} минут назад)*",
+      "icarusbot.commands.roll.stat.hoursago": "*({Hours} часов назад)*",
+      "icarusbot.commands.roll.stat.daysago": "*({Days} дней назад)*",
+      "icarusbot.commands.roll.stat.secondsago": "*({Seconds} секунд назад)*",
+      "icarusbot.commands.roll.stat.rightnow": "**(прямо сейчас!)**",
       "icarusbot.commands.action.nomessage": "**{Mark}** {Author}",
       "icarusbot.commands.action.message": "**{Mark}** {Author} *{Message}*",
       "icarusbot.commands.action.success": ":white_check_mark:",
@@ -150,4 +150,4 @@
       "icarusbot.admin.reload.translations": "{Author} **Настройки перевода перезагружены.**"
     }
   }
-} 
+}
