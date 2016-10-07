@@ -3,6 +3,11 @@
     "author": "Neeve01",
     "version": null,
     "commands": {
+      "language": {
+        "aliases": [
+          "lang"
+        ]
+      },
       "action": {
         "aliases": [
           "act",
@@ -79,6 +84,11 @@
     "author": "Neeve01",
     "version": null,
     "commands": {
+      "language": {
+        "aliases": [
+          "язык"
+        ]
+      },
       "action": {
         "aliases": [
           "действие",
