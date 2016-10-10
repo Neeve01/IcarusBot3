@@ -134,7 +134,7 @@
       "icarusbot.commands.roll.newdata": "[Roll] Создание новых данных для {Username}.",
       "icarusbot.commands.roll.stat.noprofile": "{Username} **У тебя ещё нет статистики!** Попробуй `!ролл [сообщение]`.",
       "icarusbot.commands.roll.stat.mention": "{Username} **Твоя статистика роллов:\nОбщее количество: {Count}**\n",
-      "icarusbot.commands.roll.stat.repeat": "**{Repeat} Количество роллов: {Count}**. Последнее - **{Number}**: {Message}",
+      "icarusbot.commands.roll.stat.repeat": "**{Repeat} Количество роллов: {Count}**.",
       "icarusbot.commands.roll.stat.repeat.message": " Последний - **{Number}**: {Message}",
       "icarusbot.commands.roll.stat.minutesago": "*({Minutes} минут назад)*",
       "icarusbot.commands.roll.stat.hoursago": "*({Hours} часов назад)*",
